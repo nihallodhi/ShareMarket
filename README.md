@@ -1,5 +1,3 @@
-# ShareMarket
-
 <h1 align="center">Share Market:moneybag:</h1>
 <p>
   <ul>
