@@ -1,0 +1,10 @@
+C:\Users\nl046100\source\repos\ShareMarket_Enhanced\ShareMarket_Enhanced\bin\Debug\ShareMarket_Enhanced.exe.config
+C:\Users\nl046100\source\repos\ShareMarket_Enhanced\ShareMarket_Enhanced\bin\Debug\ShareMarket_Enhanced.exe
+C:\Users\nl046100\source\repos\ShareMarket_Enhanced\ShareMarket_Enhanced\bin\Debug\ShareMarket_Enhanced.pdb
+C:\Users\nl046100\source\repos\ShareMarket_Enhanced\ShareMarket_Enhanced\obj\Debug\ShareMarket_Enhanced.csproj.AssemblyReference.cache
+C:\Users\nl046100\source\repos\ShareMarket_Enhanced\ShareMarket_Enhanced\obj\Debug\ShareMarket_Enhanced.Form1.resources
+C:\Users\nl046100\source\repos\ShareMarket_Enhanced\ShareMarket_Enhanced\obj\Debug\ShareMarket_Enhanced.Properties.Resources.resources
+C:\Users\nl046100\source\repos\ShareMarket_Enhanced\ShareMarket_Enhanced\obj\Debug\ShareMarket_Enhanced.csproj.GenerateResource.cache
+C:\Users\nl046100\source\repos\ShareMarket_Enhanced\ShareMarket_Enhanced\obj\Debug\ShareMarket_Enhanced.csproj.CoreCompileInputs.cache
+C:\Users\nl046100\source\repos\ShareMarket_Enhanced\ShareMarket_Enhanced\obj\Debug\ShareMarket_Enhanced.exe
+C:\Users\nl046100\source\repos\ShareMarket_Enhanced\ShareMarket_Enhanced\obj\Debug\ShareMarket_Enhanced.pdb

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShareMarket_v2", "ShareMarket_v2\ShareMarket_v2.csproj", "{A45ACFA3-CA36-45CD-90C6-778378DB58D3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Share-Market-Setup", "Share-Market-Setup\Share-Market-Setup.vdproj", "{A4F01680-92B6-47DB-9296-17CF8359C883}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A45ACFA3-CA36-45CD-90C6-778378DB58D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A45ACFA3-CA36-45CD-90C6-778378DB58D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A45ACFA3-CA36-45CD-90C6-778378DB58D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A45ACFA3-CA36-45CD-90C6-778378DB58D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4F01680-92B6-47DB-9296-17CF8359C883}.Debug|Any CPU.ActiveCfg = Debug
+		{A4F01680-92B6-47DB-9296-17CF8359C883}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17F052BE-F56F-4A51-90BF-71C2CE8719DB}
+	EndGlobalSection
+EndGlobal

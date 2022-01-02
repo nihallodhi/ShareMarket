@@ -1,0 +1,16 @@
+C:\Users\nl046100\source\repos\ShareMarket_v2\ShareMarket_v2\bin\Release\ShareMarket_v2.exe.config
+C:\Users\nl046100\source\repos\ShareMarket_v2\ShareMarket_v2\bin\Release\ShareMarket_v2.exe
+C:\Users\nl046100\source\repos\ShareMarket_v2\ShareMarket_v2\bin\Release\ShareMarket_v2.pdb
+C:\Users\nl046100\source\repos\ShareMarket_v2\ShareMarket_v2\bin\Release\HtmlAgilityPack.dll
+C:\Users\nl046100\source\repos\ShareMarket_v2\ShareMarket_v2\bin\Release\Tulpep.NotificationWindow.dll
+C:\Users\nl046100\source\repos\ShareMarket_v2\ShareMarket_v2\bin\Release\HtmlAgilityPack.pdb
+C:\Users\nl046100\source\repos\ShareMarket_v2\ShareMarket_v2\bin\Release\HtmlAgilityPack.xml
+C:\Users\nl046100\source\repos\ShareMarket_v2\ShareMarket_v2\obj\Release\ShareMarket_v2.csprojAssemblyReference.cache
+C:\Users\nl046100\source\repos\ShareMarket_v2\ShareMarket_v2\obj\Release\ShareMarket_v2.Form1.resources
+C:\Users\nl046100\source\repos\ShareMarket_v2\ShareMarket_v2\obj\Release\ShareMarket_v2.Form2.resources
+C:\Users\nl046100\source\repos\ShareMarket_v2\ShareMarket_v2\obj\Release\ShareMarket_v2.Properties.Resources.resources
+C:\Users\nl046100\source\repos\ShareMarket_v2\ShareMarket_v2\obj\Release\ShareMarket_v2.csproj.GenerateResource.cache
+C:\Users\nl046100\source\repos\ShareMarket_v2\ShareMarket_v2\obj\Release\ShareMarket_v2.csproj.CopyComplete
+C:\Users\nl046100\source\repos\ShareMarket_v2\ShareMarket_v2\obj\Release\ShareMarket_v2.exe
+C:\Users\nl046100\source\repos\ShareMarket_v2\ShareMarket_v2\obj\Release\ShareMarket_v2.pdb
+C:\Users\nl046100\source\repos\ShareMarket_v2\ShareMarket_v2\obj\Release\ShareMarket_v2.Form3.resources
