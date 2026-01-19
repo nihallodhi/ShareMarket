@@ -1,4 +1,4 @@
-<h1 align="center">Share Market:moneybag:</h1>
+<h1 align="center">Share Market💸</h1>
 <p>
   <ul>
     <li>Want to know the latest prices of your favourite NSE stocks, this is the app to use.</li>
